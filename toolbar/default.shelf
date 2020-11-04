@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelfDocument>
+  <!-- This file contains definitions of shelves, toolbars, and tools.
+ It should not be hand-edited when it is being used by the application.
+ Note, that two definitions of the same element are not allowed in
+ a single file. -->
+
+  <shelfSetEdit name="shelf_set_1" fileLocation="C:/PROGRA~1/Side Effects Software/Houdini 16.5.496/houdini/toolbar\ShelfDefinitions.shelf">
+    <addMemberToolshelf name="vray_render" inPosition="17"/>
+    <removeMemberToolshelf name="grooming" fromPosition="12"/>
+    <removeMemberToolshelf name="guidemodify" fromPosition="11"/>
+    <removeMemberToolshelf name="groomtools" fromPosition="10"/>
+    <removeMemberToolshelf name="muscles" fromPosition="7"/>
+    <addMemberToolshelf name="melting_dynamics" inPosition="17"/>
+  </shelfSetEdit>
+</shelfDocument>
